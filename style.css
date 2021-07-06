@@ -20,10 +20,10 @@
   margin-left: 10%;
 }
 
-.equal-area img {
-  width: 110%;
-  margin-top: -110px;
-  margin-left: -280px;
+#img-size-sec1 {
+  width: 85%;
+  margin-top: -30px;
+  margin-left: -200px;
 }
 
 span {
@@ -51,6 +51,12 @@ span {
   margin-top: 50px;
 }
 
+#bgimg-sec2 {
+  background-image: url(images/sec2bg.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
 #sec2-div2-hading {
   font-family: "Montserrat", sans-serif;
   color: gray;
@@ -62,4 +68,9 @@ span {
   font-size: 20px;
   padding-right: 300px;
   padding-bottom: 75px;
+}
+#img-size-sec2 {
+  width: 85%;
+  margin-top: 30px;
+  margin-left: 120px;
 }
