@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+}
 .bold-text {
   font-family: "Montserrat", sans-serif;
 }
@@ -12,7 +15,7 @@
 .flex {
   display: flex;
   margin-top: 10%;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 
 .equal-area {
@@ -33,7 +36,7 @@ span {
   font-family: "Montserrat", sans-serif;
   color: gray;
   font-size: 25px;
-  padding-bottom: 55px;
+  padding-bottom: 50px;
 }
 .anchor-style {
   text-decoration: none;
@@ -61,6 +64,7 @@ span {
   font-family: "Montserrat", sans-serif;
   color: gray;
   font-size: 30px;
+  padding-top: 100px;
 }
 
 #sec2-div2-p {
@@ -73,4 +77,45 @@ span {
   width: 85%;
   margin-top: 30px;
   margin-left: 120px;
+}
+
+#my-recipy {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  color: gray;
+  font-size: 30px;
+}
+#sec3-div1-p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+.items-flex {
+  display: flex;
+  margin-bottom: 150px;
+  width: 50%;
+  padding-left: 300px;
+  margin-top: 50px;
+}
+.food-name-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+}
+.sec3-img-size {
+  width: 300px;
+  border-radius: 20px;
+}
+
+.font-style-s3-p {
+  font-family: "Montserrat", sans-serif;
+  color: gray;
+  font-size: 20px;
+}
+.border {
+  box-shadow: 0px 0px 30px #c9c9c9;
+  border-radius: 20px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
