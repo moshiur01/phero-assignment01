@@ -26,7 +26,7 @@ body {
 #img-size-sec1 {
   width: 85%;
   margin-top: -30px;
-  margin-left: -200px;
+  margin-left: -80px;
 }
 
 span {
@@ -118,4 +118,27 @@ span {
   padding-top: 15px;
   padding-left: 15px;
   padding-right: 15px;
+}
+
+.fooder-style {
+  font-family: "Montserrat", sans-serif;
+}
+.footer-style {
+  text-align: center;
+  font-weight: bold;
+  background-color: #0b0d17;
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+.footer-style h3 {
+  color: rgb(68, 65, 65);
+
+  font-size: 35px;
+  font-family: "Montserrat", sans-serif;
+}
+.footer-style p {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
 }
