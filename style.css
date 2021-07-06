@@ -12,6 +12,7 @@
 .flex {
   display: flex;
   margin-top: 10%;
+  margin-bottom: 10%;
 }
 
 .equal-area {
@@ -44,9 +45,21 @@ span {
   color: white;
   font-size: 20px;
   font-family: "Montserrat", sans-serif;
-  margin-top: 20px;
 }
 
 #sec1-ank {
   margin-top: 50px;
+}
+
+#sec2-div2-hading {
+  font-family: "Montserrat", sans-serif;
+  color: gray;
+  font-size: 30px;
+}
+
+#sec2-div2-p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  padding-right: 300px;
+  padding-bottom: 75px;
 }
